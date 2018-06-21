@@ -75,3 +75,19 @@ git push origin master
 <ul>Voltar a Assistir Filme do Periodo parado</ul>
 <ul>Exibir maratona Filmes</ul>
 <ul>Exibir maratona de Séries</ul>
+
+
+<h2>Requisitos - Criar Filme</h2>
+<p> Deve-se informar as caracteristicas gerais sobre o filme</p>
+ <ul>Sinopse: descrição da historia do filme</ul>
+ <ul>Diretor: nome do Diretor do Filme</ul>
+ <ul>Nacionalidade: pais origem do filme.</ul>
+ <ul>[Regra de Negócio] - Pode-se ter mais de um pais envolvido na produção do filme.</ul>
+ <ul>Elenco: relação de atores/papel no filme:</ul>
+ <ul>Classificação: idade minima permitida para poder assistir o filme.</ul>
+ <ul>Gênero: Classificação do tipo de filme.</ul>
+ <ul>[Regra de Negócio] - Pode-se ter mais de um tipo de gênero para o filme.</ul>
+ <ul> Ano: Ano que o filme foi produzido.</ul>
+ <ul> Lançamento: Ano que o filme foi Lançado.</ul>
+ <ul>Duração: Informar o tempo em minutos. </ul>
+ <ul>Prêmios: Lista de Indicações/Prêmiações em festivais </ul>
