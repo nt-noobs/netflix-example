@@ -56,3 +56,18 @@ serviços de videos apresentados no catalogo.
  <ul> Lançamento: Ano que o filme foi Lançado.</ul>
  <ul>Duração: Informar o tempo em minutos. </ul>
  <ul>Prêmios: Lista de Indicações/Prêmiações em festivais </ul>
+ 
+ 
+ <h2>Requisitos - Criar Elenco</h2>
+ <p> Deve-se informar o nome dos participantes do elenco e o nome dos personagem que serão apresentados na trama.</p>
+ <ul> Categoria de Entretenimento : Filme, Série, Novela, Documentário, Show, Desenho.</ul>
+ <ul>Artista: Nome do Artista.</ul>
+ <ul>Personagem: Nome do Personagem.</ul>
+ <ul>Categoria do Personagem: Protagonista, Antagonista, coadjuvante, Convidado, Apresentador.</ul>
+ <ul>Categoria do Artista: Cantor, Compositor, Banda, Tenor, Soprano.</ul>
+ <ul>Produtora: Nome da Produtora.</ul>
+ <ul>Emissora: Nome da Emissora.</ul>
+ <ul> Roterista: Nome do Roterista.</ul>
+ <ul> Ano: Ano da produção.</ul>
+
+ 
