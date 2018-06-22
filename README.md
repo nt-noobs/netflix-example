@@ -19,6 +19,7 @@ serviços de videos apresentados no catalogo.
 <ul>Criar Perfil de Artista</ul>
 <ul>Criar Artista</ul>
 <ul>Criar Filme</ul>
+<ul>Criar Série</ul>
 <ul>Criar Elenco</ul>
 <ul>Criar Classificação por Idade</ul>
 <ul>Criar Perfil de Usuário</ul>
