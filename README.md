@@ -8,9 +8,11 @@ serviços de videos apresentados no catalogo.
 
 ### Configuações: 
 #### verificar default-system= https://github.com/nt-noobs/default-system
-    
+  
+  
+  
 <h2>Funcionalidades Descritas - Perfil Administrador</h2>
-
+<ul>Criar Legendas para Mídias [NOVO]</ul>  
 <ul>Criar Catálogo de Filmes</ul>
 <ul>Criar Catálogo de Séries</ul>
 <ul>Criar Catálogo de Documentários</ul>
@@ -20,9 +22,16 @@ serviços de videos apresentados no catalogo.
 <ul>Criar Artista</ul>
 <ul>Criar Filme</ul>
 <ul>Criar Série</ul>
+<ul>Criar Episódio [NOVO]</ul>
+<ul>Criar Temporada [NOVO]</ul>
 <ul>Criar Elenco</ul>
 <ul>Criar Classificação por Idade</ul>
 <ul>Criar Perfil de Usuário</ul>
+<ul>Criar Mídia [NOVO]</ul>
+<ul>Criar Catalogo de Evento Promocional [NOVO]</ul>
+<ul>Criar Premiação de Filme [NOVO]</ul>
+<ul>Criar Premiação de Séries [NOVO]</ul>
+<ul>Criar Franquia de Filmes [NOVO]</ul>
 
 
 <h2>Funcionalidades Descritas - Perfil Sistema</h2>
